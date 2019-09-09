@@ -164,7 +164,6 @@ class UIKitSymbols: XCTestCase {
             "UITextField",
             "UITextView",
             "UIToolbar",
-            "UIWebView",
         ]
 
         // Get properties
